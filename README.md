@@ -42,3 +42,19 @@ Akash Kumar Shah
 
 
 TASK-3
+**🌡️ Temperature Converter Web Application**
+
+🎯 Objective
+The aim of this project is to build a responsive temperature converter website that allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin. It is designed as part of the Oasis Infobyte Web Development internship to demonstrate core frontend development skills.
+
+📝 Steps Performed
+The structure of the application was created using semantic HTML5, including form elements for user input and selection of conversion units. CSS3 was used to implement a clean dark UI theme, responsive layout, and fluid animations. JavaScript was written to handle the temperature conversion logic dynamically and update the output in real time based on user interactions.
+
+🛠 Tools Used
+HTML5 was used for semantic markup. CSS3 enabled a modern and responsive interface with typography enhancements and layout styling. JavaScript powered the core functionality of the converter and added interactive behavior. No frameworks or libraries were used to maintain simplicity and educational value.
+
+✅ Outcome
+The result is a lightweight, mobile-friendly web application where users can convert temperatures across three major units with immediate feedback. It is optimized for user experience, responsive across devices, and ready for deployment or integration into a larger utility suite.
+
+👨‍💻 Author
+Akash Kumar Shah
